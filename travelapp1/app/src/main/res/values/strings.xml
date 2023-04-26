@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">travel-app1</string>
+    <string name="Logo">Logo</string>
+    <string name="headerText">Explore The Natural Beauty Of Halmahera With Us</string>
+    <string name="headerText2">explore the beauty of gods earth in a beautiful forest and have fun</string>
+    <string name="exploreBtn">Explore Now</string>
+    <string name="headerImage"></string>
+</resources>
