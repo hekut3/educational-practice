@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">travel-app</string>
+    <string name="textHeader" translatable="false">Explore The Natural Beauty Of Halmahera With Us</string>
+    <string name="textHeader2" translatable="false">explore the beauty of gods earth in a beautiful forest and have fun</string>
+    <string name="buttonExplore" translatable="false">Explore Now</string>
+</resources>
