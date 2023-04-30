@@ -42,14 +42,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(browserIntent);
     }
 
-    @Override
-    public void onClick(View v){
-        Intent intent;
-        buttonExplore.setBackgroundColor(R.color.ButtonColor);
-        intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://a0810081.xsph.ru/"));
-        startActivity(intent);
-    }
-
     public void buttonExplore2(View view){
         Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://a0810081.xsph.ru/"));
         startActivity(browserIntent);
